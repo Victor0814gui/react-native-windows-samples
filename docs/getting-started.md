@@ -12,6 +12,7 @@ For information around how to set up React Native, see the [React Native Getting
 ## Install React Native for Windows
 
 Remember to call `react-native init` from the place you want your project directory to live.
+As of react-native 0.71.0 typescript is installed by default
 
 ```bat
 npx react-native init <projectName> --template react-native@^0.71.0
